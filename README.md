@@ -2,7 +2,7 @@
 (c) 2025 De-Ming Chian e-mail: icefreeman123@gmail.com
 
 # Algorithms
-- FFT
+- Fast Fourier Transform (FFT)
 - MUltiple SIgnal Classification (MUSIC)
 
 # Requirements
