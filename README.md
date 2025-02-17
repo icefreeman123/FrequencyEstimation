@@ -11,5 +11,4 @@
 - Visual Studio Code
 
 # Results
-The following results are reproduced from Fig. 7(c) of our paper: <br>
 ![Image text](https://github.com/icefreeman123/FrequencyEstimation/blob/main/results.png)
