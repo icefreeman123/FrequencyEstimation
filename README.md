@@ -1,5 +1,5 @@
 # Python code for the frequency estimation with different algorithms to extract a complex signal
-(c) 2025 De-Ming Chian and Chao-Kai Wen e-mail: icefreeman123@gmail.com and chaokai.wen@mail.nsysu.edu.tw
+(c) 2025 De-Ming Chian e-mail: icefreeman123@gmail.com
 
 # Algorithms
 - FFT
